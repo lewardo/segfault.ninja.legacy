@@ -1,9 +1,12 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
+defineProps<{
+  msg: string
+}>()
 </script>
 
 <template>
   <div>
+
   </div>
 </template>
 
