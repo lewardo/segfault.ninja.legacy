@@ -1,14 +1,14 @@
 {
   "name": "segfault.ninja",
   "version": "0.0.1",
-  "description": "source code for my portfolio website segfault.ninja⚡",
+  "description": "source code for my portfolio website ⚡segfault.ninja",
   "author": {
     "name": "lewardo",
     "email": "segfault.ninja@gmail.com",
     "url": "https://github.com/lewardo"
   },
   "license": "GPL-3.0",
-  "homepage": "https://lewardo.github.io/vue-glitched",
+  "homepage": "https://segfault.ninja",
   "repository": {
     "type": "git",
     "url": "https://github.com/lewardo/segfault.ninja.git"
@@ -16,11 +16,10 @@
   "keywords": [
     "portfolio",
     "vue",
-    "vite",
-    "typescript"
+    "vite"
   ],
   "bugs": {
-    "email": "lewardo23@gmail.com",
+    "email": "segfault.ninja@gmail.com",
     "url": "https://github.com/lewardo/segfault.ninja/issues"
   },
   "scripts": {
